@@ -37,7 +37,7 @@ Read the complete notes, step-by-step process, and live version here:
 [👉 View on Notion](https://mahabala.notion.site/U-S-Electric-Vehicle-Market-Share-Analysis-Findings-Report-335e583fcafd8145b429eea97e5f18f4)
 
 ## 📄 Downloadable Report
-[👉 Full PDF Report](reports/U.S.%20Electric%20Vehicle%20Market%20Share%20Analysis.pdf)
+[👉 Full PDF Report](reports/U.S. Electric Vehicle Market.pdf)
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/aimsha2319/us-ev-market-share-analysis.git`

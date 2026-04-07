@@ -21,7 +21,6 @@ As someone just starting out in data analytics, I completed this intermediate pr
 - `notebooks/` → Main Jupyter Notebook
 - `data/` → Raw dataset
 - `reports/` → Final PDF report
-- `presentations/` → PowerPoint slides
 - `images/` → Dashboard screenshots
 
 ## 📊 Dashboard Previews

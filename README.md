@@ -3,13 +3,14 @@
 **Data Analysis Project** | Jupyter Notebook + Tableau Dashboard
 
 ## 📋 Project Overview
-As someone just starting out in data analytics, I completed this intermediate project analyzing U.S. EV adoption using state-level vehicle registration data (51 states + DC).
+An intermediate data analysis project examining U.S. EV adoption patterns using state-level vehicle registration data across all 50 states and D.C.
 
 **Key deliverables:**
 - Cleaned and analyzed EV, PHEV, HEV, and gasoline market shares
 - Identified top/bottom adopting states and compared California vs. other large states
 - Built interactive Tableau dashboard + presentation slides
 - Provided data-driven recommendations for EV infrastructure investment
+  Key finding — California leads at 3.41% EV adoption, while bottom states sit below 0.2% — a 20x gap.
 
 ## 🛠️ Tech Stack
 - **Python**: Jupyter Notebook in VS Code (pandas for cleaning & calculations)
@@ -39,7 +40,7 @@ Read the complete notes, step-by-step process, and live version here:
 [👉 Full PDF Report](reports/U.S.%20Electric%20Vehicle%20Market.pdf)
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/aimsha2319/us-ev-market-share-analysis.git`
+1. Clone the repo: `git clone https://github.com/aimsha2319/Analyzing-U.S.-Electric-Vehicle-Market-Share.git`
 2. Open the notebook in VS Code or Jupyter
 3. (Optional) Install packages: `pip install -r requirements.txt`
 

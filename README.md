@@ -32,10 +32,6 @@ As someone just starting out in data analytics, I completed this intermediate pr
 
 ![Alternative Electric Vehicle Registrations - California vs Texas vs Florida vs New York](images/Dashboard%202.png)
 
-## 📽️ Presentation Slides
-Download the full slide deck:  
-[👉 U.S._EV_Market_Share_Presentation.pptx](presentations/U.S._EV_Market_Share_Presentation.pptx)
-
 ## 📝 Full Written Report (Notion)
 Read the complete notes, step-by-step process, and live version here:  
 [👉 View on Notion](https://mahabala.notion.site/U-S-Electric-Vehicle-Market-Share-Analysis-Findings-Report-335e583fcafd8145b429eea97e5f18f4)

@@ -25,8 +25,12 @@ As someone just starting out in data analytics, I completed this intermediate pr
 - `images/` → Dashboard screenshots
 
 ## 📊 Dashboard Previews
-![Geographic EV Distribution](images/Dashboard%201.png)
-![EV vs HEV vs Hydrogen Comparison](images/Dashboard%202.png)
+
+![National Vehicle Fleet Composition by Fuel Type](images/Sheet%204.png)
+
+![Geographic Distribution of EV Registrations + Top States](images/Dashboard_map_bars.png)
+
+![Alternative Electric Vehicle Registrations - California vs Texas vs Florida vs New York](images/Dashboard%202.png)
 
 ## 📽️ Presentation Slides
 Download the full slide deck:  
@@ -49,4 +53,4 @@ data-analysis, python, jupyter-notebook, tableau, electric-vehicles, ev-adoption
 
 ---
 
-*Built as part of a data analytics portfolio project — April 2026*S
+*Built as part of a data analytics portfolio project — April 2026*

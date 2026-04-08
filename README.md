@@ -29,9 +29,11 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 
 ![U.S. EV Registrations Map](images/us-ev-registrations-map.png)
 
+![Top States by EV Adoption Rate](images/top-states-ev-adoption-bar.png)
+
+
 ![National Vehicle Fleet Composition by Fuel Type](images/national-fuel-composition-pie.png)
 
-![Top States by EV Adoption Rate](images/top-states-ev-adoption-bar.png)
 
 ![California vs Texas vs Florida vs New York - EV & HEV Comparison](images/ca-tx-fl-ny-ev-hev-comparison.png)
 

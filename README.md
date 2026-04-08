@@ -15,7 +15,7 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 ## 🛠️ Tech Stack
 - **Python**: Jupyter Notebook in VS Code (pandas for cleaning & calculations)
 - **Visualization**: Tableau (map, bars, pie chart)
-- **Presentation**: PowerPoint + Tableau Workbook
+- **Presentation**: Tableau Workbook
 - **Written Report**: Notion (full notes) + PDF
 
 ## 📁 Project Structure

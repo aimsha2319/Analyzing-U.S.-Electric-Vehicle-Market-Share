@@ -37,8 +37,6 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 
 ![California vs Texas vs Florida vs New York - EV & HEV Comparison](images/ca-tx-fl-ny-ev-hev-comparison.png)
 
-## 📽️ Presentation Slides
-[👉 Download PowerPoint Slides](presentations/U.S._EV_Market_Share_Presentation.pptx)
 
 ## 📊 Interactive Tableau Workbook
 [👉 Open full interactive Tableau workbook (.twbx)](presentations/U.S._EV_Market_Share_Presentation.twbx)

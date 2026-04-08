@@ -22,7 +22,7 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 - `notebooks/` → Main Jupyter Notebook
 - `data/` → Raw & cleaned datasets
 - `reports/` → Final PDF report
-- `presentations/` → PowerPoint + Tableau Workbook
+- `presentations/` → Tableau Workbook
 - `images/` → Dashboard screenshots
 
 ## 📊 Dashboard Previews

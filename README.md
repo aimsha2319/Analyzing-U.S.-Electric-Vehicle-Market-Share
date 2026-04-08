@@ -45,7 +45,7 @@ An intermediate data analysis project examining U.S. EV adoption patterns using 
 [👉 View on Notion](https://mahabala.notion.site/U-S-Electric-Vehicle-Market-Share-Analysis-Findings-Report-335e583fcafd8145b429eea97e5f18f4)
 
 ## 📄 Downloadable PDF Report
-[👉 Download Full Report](reports/U.S.%20Electric%20Vehicle%20Market.pdf)
+[👉 Download Full Report](reports/U.S_Electric_Vehicle_Market.pdf)
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/aimsha2319/Analyzing-U.S.-Electric-Vehicle-Market-Share.git`
